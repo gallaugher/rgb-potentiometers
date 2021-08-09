@@ -1,6 +1,7 @@
 # rgb-potentiometers
 
 Code used in Prof. Gallaugher's demo board for RGB and Potentiometers
+<img width="634" alt="RGB + Potentiometer display image" src="https://user-images.githubusercontent.com/20801687/128732276-b9e474c3-50d9-4f12-a621-e6ad5fb18d67.png">
 
 Color can be assigned by combining values for Red, Green, and Blue (RGB). The sliders allow each color to be set. The top light strip shows the color from the combined RGB setting, while the bottom strip shows the individual Red, Green, and Blue values.
 
